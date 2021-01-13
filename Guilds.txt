@@ -1,0 +1,101 @@
+ACM AUTH: 221
+Alpha Devs from NIT Rourkela: 147
+AlphaByte: 52
+Apple Cyder: 43
+ArtemisCoders: 9
+Bolivia Tech Hub: 4
+Boolean Pundits: 6
+CODESTARS: 50
+CUNY Tech: 137
+CUSAT: 589
+Canada-eh: 68
+CoBroders: 15
+Code Xtreme: 3
+CodeXCrypters: 219
+Coders: 34
+Ctrl Alt Elite: 7
+Curry Creek Guild: 14
+DSC ADGITM: 68
+DSC United: 1173
+DashWood: 2
+DedSec: 58
+DevScript: 59
+DevScript Winter of code: 1007
+DevSoc: 129
+DevSoc - Developers' Society BITS Goa: 8
+Developer Student Community: 2954
+Durham CompSoc: 42
+ESTechies: 479
+EddieHub: 2811
+EquiCode: 1741
+Error 418: 6
+FELINE PHENOM: 3
+FET-JU: 63
+Flying Haux: 143
+GoldenHour: 11
+Hack Club VIT Chennai: 75
+HackGT: 21
+HackerNoobs: 33
+IET-VIT: 36
+JaguarHackers: 5
+JakeJack's Academy: 69
+Khwabon ke Parindey: 20
+Kingsmen: 29
+Knights Templar: 20
+Kode Krew: 82
+Komders: 160
+Kulkul.tech Dev Community: 99
+MAVTE: 16
+MIT Manipal Devlopers Guild: 57
+MLSA-SCE Club: 316
+MSD07: 15
+MacroChips: 3
+Micro Club: 400
+MozNeurons: 10
+NIT Delhi: 125
+Null Hypothesis: 3
+Open Minds Club: 591
+Pirates Of The Pentium: 19
+Pirates of the Web: 164
+Queens Software Developers Club: 7
+RAINBOWFROG: 25
+Reboot: 157
+SHECODERS: 163
+SIAM-VIT: 159
+SRM ACM-W: 17
+SeeBlue: 138
+Skylark Diner: 34
+SpaceY: 38
+Sparklers: 419
+Student Ambassadors' Club, Jamshoro: 76
+Sudoers: 18
+TRISM: 7
+Team TBD: 24
+Team Uniques: 11
+Team Voyager: 55
+TeamCarnage: 78
+Tech Bubble: 277
+Tech Phantoms: 33
+Tech Support: 50
+Tech Wizard: 367
+TechBuds: 3
+TechnoLiterati: 258
+The Melones: 42
+The Six Clique: 4
+Turing Complete: 120
+UG Robotics Club: 9
+UniqueMST: 14
+Vault: 5
+Victory Royale: 157
+Wind in our chest hair: 413
+Zing: 37
+cyberknights: 6
+debugprodigy: 4
+eduAlgo: 118
+exponential coconuts: 23
+inaxia: 184
+ninjas: 20
+svugeekz: 9
+teemo: 8
+the_new_builders: 9
+ubuntuing: 5
